@@ -1,4 +1,4 @@
-# Joe Mullins - Aspiring Data Scientist
+# Joe Mullins - Upcoming Computer Science Graduate
 
 [Franklin, NC](https://www.google.com/maps?q=Franklin,+NC) | [joemullins789@gmail.com](mailto:joemullins789@gmail.com) | [LinkedIn](https://linkedin.com/in/jmullins2024) | [GitHub](https://github.com/Jmmullins789)
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an aspiring data scientist with a strong foundation in **machine learning**, **data analysis**, and **cloud computing**. I'm experienced in leveraging data-driven insights to solve real-world problems and possess hands-on skills in **Python**, **R**, **SQL**, and various **cloud platforms**. I am passionate about using data to drive business decisions and enhance organizational efficiency.
+I am an upcoming computer science graduate with a strong foundation in **data analysis**. I'm experienced in leveraging data-driven insights to solve real-world problems and possess hands-on skills in **Python**, **Excel**, **SQL**, and various **PowerBI**. I am passionate about using data to drive business decisions and enhance organizational efficiency.
 
 ## Skills
 
@@ -23,11 +23,6 @@ _Minor_: Mathematics
 ## Experience
 **Data Analyst, WCU Basketball** (Aug 2024 - Present)  
 
-## Coursework Highlights
-
-- **Cloud Computing**: Deployed scalable solutions using GCP, utilized AutoML, and optimized data workflows.
-- **Statistics**: Applied statistical methods using R on real-world datasets.
-- **Data Structures and Algorithms**: Enhanced computational efficiency by implementing optimized data structures.
 
 ## Projects
 
@@ -36,6 +31,3 @@ _Aug 2024 - Present_
 - Developed a system to track and visualize supply chain data with PostgreSQL, soon to be hosted on Azure.
 - Predictive modeling efforts are underway to improve inventory forecasting accuracy.
 
----
-
-Feel free to customize the README further to highlight specific projects or skills. Including links to repositories or demo videos would be beneficial for showcasing your work.
